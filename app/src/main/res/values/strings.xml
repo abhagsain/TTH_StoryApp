@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Image Vocabulary</string>
     <string name="main_page_image">Image Showing</string>
-    <string name="title_word">Word you can learn today</string>
+    <string name="title_word">Let\'s Learn</string>
     <string name="previous">Previous</string>
     <string name="next">Next</string>
 </resources>
